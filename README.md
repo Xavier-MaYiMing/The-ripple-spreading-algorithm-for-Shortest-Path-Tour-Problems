@@ -23,7 +23,7 @@
 
 #### Example (RSA4SPTP.py)
 
-![SPTP example](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithms for Shortest Path Tour Problems\SPTP example.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-Shortest-Path-Tour-Problems/blob/main/SPTP%20example.png)
 
 ```python
 if __name__ == '__main__':
@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
 #### Example (RSA4m2mSPTP.py)
 
-![m2mSPTP_example](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithms for Shortest Path Tour Problems\m2mSPTP example.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-Shortest-Path-Tour-Problems/blob/main/m2mSPTP%20example.png)
 
 ```python
 if __name__ == '__main__':
@@ -132,7 +132,7 @@ if __name__ == '__main__':
 
 #### Example 1 (RSA4kSPTP.py)
 
-![k-SPTP example](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithms for Shortest Path Tour Problems\k-SPTP example.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-Shortest-Path-Tour-Problems/blob/main/k-SPTP%20example.png)
 
 ```python
 if __name__ == '__main__':
@@ -291,21 +291,21 @@ if __name__ == '__main__':
 
 ##### Output
 
-![1](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithms for Shortest Path Tour Problems\1.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-Shortest-Path-Tour-Problems/blob/main/1.png)
 
-![2](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithms for Shortest Path Tour Problems\2.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-Shortest-Path-Tour-Problems/blob/main/2.png)
 
-![3](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithms for Shortest Path Tour Problems\3.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-Shortest-Path-Tour-Problems/blob/main/3.png)
 
-![4](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithms for Shortest Path Tour Problems\4.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-Shortest-Path-Tour-Problems/blob/main/4.png)
 
-![5](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithms for Shortest Path Tour Problems\5.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-Shortest-Path-Tour-Problems/blob/main/5.png)
 
-![6](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithms for Shortest Path Tour Problems\6.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-Shortest-Path-Tour-Problems/blob/main/6.png)
 
-![7](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithms for Shortest Path Tour Problems\7.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-Shortest-Path-Tour-Problems/blob/main/7.png)
 
-![8](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithms for Shortest Path Tour Problems\8.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-Shortest-Path-Tour-Problems/blob/main/8.png)
 
 ```python
 [
